@@ -6,15 +6,20 @@ h1.titulo{
     
 }
 
-p.izquierda {
+ p.izquierda {
     float: left;
+    
   }
  p.centro {
-    float: center;
+  text-align: center;
   }
   p.derecha {
     float: right;
   }
+  p.fotocafeteria{
+    text-align: center;
+  }
+  
 h1 {
     text-align: center;
     color:rgba(87, 11, 1, 0.849);
