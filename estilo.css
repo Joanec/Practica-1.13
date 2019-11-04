@@ -19,7 +19,10 @@ h1.titulo{
   p.fotocafeteria{
     text-align: center;
   }
-  
+  p.coffee{
+    text-align: center;
+    
+  }
 h1 {
     text-align: center;
     color:rgba(87, 11, 1, 0.849);
